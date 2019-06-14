@@ -1,0 +1,19 @@
+C:\Users\User\Downloads\Something-Something-Wizard2-master\Something Something Wizards\bin\Debug\Something Something Wizards.exe.config
+C:\Users\User\Downloads\Something-Something-Wizard2-master\Something Something Wizards\bin\Debug\Something Something Wizards.exe
+C:\Users\User\Downloads\Something-Something-Wizard2-master\Something Something Wizards\bin\Debug\Something Something Wizards.pdb
+C:\Users\User\Downloads\Something-Something-Wizard2-master\Something Something Wizards\obj\Debug\Something Something Wizards.csprojAssemblyReference.cache
+C:\Users\User\Downloads\Something-Something-Wizard2-master\Something Something Wizards\obj\Debug\Something_Something_Wizards.OrignalForm.resources
+C:\Users\User\Downloads\Something-Something-Wizard2-master\Something Something Wizards\obj\Debug\Something_Something_Wizards.Properties.Resources.resources
+C:\Users\User\Downloads\Something-Something-Wizard2-master\Something Something Wizards\obj\Debug\Something_Something_Wizards.GameScreen.resources
+C:\Users\User\Downloads\Something-Something-Wizard2-master\Something Something Wizards\obj\Debug\Something_Something_Wizards.HowToScreen.resources
+C:\Users\User\Downloads\Something-Something-Wizard2-master\Something Something Wizards\obj\Debug\Something_Something_Wizards.MainScreen.resources
+C:\Users\User\Downloads\Something-Something-Wizard2-master\Something Something Wizards\obj\Debug\Something_Something_Wizards.StartScreen.resources
+C:\Users\User\Downloads\Something-Something-Wizard2-master\Something Something Wizards\obj\Debug\Something_Something_Wizards.ProfileScreen.resources
+C:\Users\User\Downloads\Something-Something-Wizard2-master\Something Something Wizards\obj\Debug\Something_Something_Wizards.WizardSelectionScreen.resources
+C:\Users\User\Downloads\Something-Something-Wizard2-master\Something Something Wizards\obj\Debug\Something_Something_Wizards.WinScreen.resources
+C:\Users\User\Downloads\Something-Something-Wizard2-master\Something Something Wizards\obj\Debug\Something_Something_Wizards.LoseScreen.resources
+C:\Users\User\Downloads\Something-Something-Wizard2-master\Something Something Wizards\obj\Debug\Something Something Wizards.csproj.GenerateResource.cache
+C:\Users\User\Downloads\Something-Something-Wizard2-master\Something Something Wizards\obj\Debug\Something Something Wizards.csproj.CoreCompileInputs.cache
+C:\Users\User\Downloads\Something-Something-Wizard2-master\Something Something Wizards\obj\Debug\Something Something Wizards.exe
+C:\Users\User\Downloads\Something-Something-Wizard2-master\Something Something Wizards\obj\Debug\Something Something Wizards.pdb
+C:\Users\User\Downloads\Something-Something-Wizard2-master\Something Something Wizards\bin\Debug\Resources\Profile.xml
